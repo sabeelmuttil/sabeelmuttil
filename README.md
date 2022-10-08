@@ -1,6 +1,8 @@
 Hi 👋 My name is SABEEL K M
 ===========================
-
+<a href="https://app.daily.dev/sabeelmuttil" target="_blank">
+  <img src="https://api.daily.dev/devcards/5b6254c3f65c4494969b976ae01bb1a2.png?r=u84" width="400" align="right" alt="SABEEL K M's Dev Card"/></a>
+</div>
 Web and Mobile Application Developer
 ------------------------------------
 
@@ -11,9 +13,12 @@ Sharing my everyday life as a Mobile Application developer, And always learning 
 * 🧠  I'm learning Flutter
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
-<a href="https://www.twitter.com/sabeel_km" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/sabeel_km" target="_blank" rel="noreferrer">
+<img
 src="https://img.shields.io/twitter/follow/sabeel_km?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/sabeelmuttil" target="_blank" rel="noreferrer"><img
+/>
+</a>
+<a href="https://www.github.com/sabeelmuttil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sabeelmuttil?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
@@ -67,6 +72,14 @@ src="https://img.shields.io/github/followers/sabeelmuttil?logo=github&style=for-
 <a href="http://www.github.com/sabeelmuttil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeelmuttil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sabeelmuttil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeelmuttil&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!--
+![Metrics](https://raw.githubusercontent.com/sabeelmuttil/sabeelmuttil/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/sabeelmuttil/sabeelmuttil/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/sabeelmuttil/sabeelmuttil/github-metrics/achievements.svg)
+[![@sabeelmuttil's Holopin board](https://holopin.io/api/user/board?user=sabeelmuttil)](https://holopin.io/@sabeelmuttil)
+-->
+
 
 ### Support Me
 

@@ -4,6 +4,7 @@ Hi 👋 My name is SABEEL K M
   <img src="https://api.daily.dev/devcards/5b6254c3f65c4494969b976ae01bb1a2.png?r=u84" width="400" align="right" alt="SABEEL K M's Dev Card"/></a>
 </div>
 Web and Mobile Application Developer
+
 ------------------------------------
 
 Sharing my everyday life as a Mobile Application developer, And always learning something new

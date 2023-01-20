@@ -84,7 +84,7 @@ src="https://img.shields.io/github/followers/sabeelmuttil?logo=github&style=for-
 
 <a href="https://github.com/sabeelmuttil" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabeelmuttil&langs_count=10&title_color=4AB197&text_color=ffffff&icon_color=4AB197&bg_color=1A2B34&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ![Metrics](https://raw.githubusercontent.com/sabeelmuttil/sabeelmuttil/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/sabeelmuttil/sabeelmuttil/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/sabeelmuttil/sabeelmuttil/github-metrics/achievements.svg)

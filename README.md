@@ -96,8 +96,7 @@ src="https://img.shields.io/github/followers/sabeelmuttil?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sabeelmuttil"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabeelmuttil&show_icons=true&hide=&count_private=true&title_color=4AB197&text_color=ffffff&icon_color=4AB197&bg_color=1A2B34&hide_border=true&show_icons=true" alt="sabeelmuttil's GitHub stats" /></a>
-<a href="http://www.github.com/sabeelmuttil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeelmuttil&stroke=ffffff&background=1A2B34&ring=4AB197&fire=4AB197&currStreakNum=ffffff&currStreakLabel=c9cacc&sideNums=4AB197&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sabeelmuttil"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabeelmuttil&show_icons=true&hide=&count_private=true&title_color=4AB197&text_color=ffffff&icon_color=4AB197&bg_color=1A2B34&hide_border=true&show_icons=true" alt="sabeelmuttil's GitHub stats" /></a><a href="http://www.github.com/sabeelmuttil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeelmuttil&stroke=ffffff&background=1A2B34&ring=4AB197&fire=4AB197&currStreakNum=ffffff&currStreakLabel=c9cacc&sideNums=4AB197&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sabeelmuttil" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabeelmuttil&langs_count=10&title_color=4AB197&text_color=ffffff&icon_color=4AB197&bg_color=1A2B34&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

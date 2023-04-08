@@ -134,13 +134,12 @@ src="https://img.shields.io/github/followers/sabeelmuttil?logo=github&style=for-
 [![An image of @sabeelmuttil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabeelmuttil)](https://holopin.io/@sabeelmuttil)
 
 
-
+<!-- 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sabeelmuttil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-<!-- BLOG-POST-LIST:START -->
+
 - [hi](https://dev.to/sabeelmuttil/hi-4ek6)
-<!-- BLOG-POST-LIST:END -->
  -->

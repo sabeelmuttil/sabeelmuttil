@@ -9,8 +9,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <a href="https://app.daily.dev/sabeelmuttil" target="_blank">
-  <img src="https://api.daily.dev/devcards/5b6254c3f65c4494969b976ae01bb1a2.png?r=u84" width="400" align="right" alt="SABEEL K M's Dev Card"/></a>
-</div>
+  <img src="https://api.daily.dev/devcards/v2/WPR3GDCOYNmT2tHbscw0X.png?r=0hr&type=default" width="356" align="right" alt="SABEEL K M's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sabeel_muttil) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabeel.km1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sabeel.km) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabeelmuttil) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sabeel-Muttil) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ambitious_Roll_822) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sabeel-k-m) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sabeel_km) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sabeelmuttil) 

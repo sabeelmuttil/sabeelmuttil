@@ -33,6 +33,7 @@
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sabeelmuttil) 
 
+[![Full-Stack Explorer](https://devmatch-dev.vercel.app/api/readme-badge/sabeelmuttil?persona=Full-Stack%20Explorer)](https://devmatch-dev.vercel.app/sabeelmuttil)
 
 ### Badges
 
@@ -48,12 +49,4 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
-<!-- 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/sabeelmuttil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
-- [hi](https://dev.to/sabeelmuttil/hi-4ek6)
- -->

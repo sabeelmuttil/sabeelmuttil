@@ -33,7 +33,7 @@
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sabeelmuttil) 
 
-[![Full-Stack Explorer](https://devmatch-dev.vercel.app/api/readme-badge/sabeelmuttil?persona=Full-Stack%20Explorer)](https://devmatch-dev.vercel.app/sabeelmuttil)
+[![Hybrid Stack Sorcerer](https://devmatch-dev.vercel.app/api/readme-badge/sabeelmuttil?persona=Hybrid+Stack+Sorcerer&dna=Frontend%3A35%7CMobile%3A30%7CAI%252FML%3A20&tags=javascript%2Cflutter%2Creact)](https://devmatch-dev.vercel.app/sabeelmuttil)
 
 ### Badges
 
